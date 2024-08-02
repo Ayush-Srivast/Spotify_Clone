@@ -12,9 +12,9 @@ let songs = [
     {songName: ' Despacito', filepath: 'musics/1.mp3', coverPath: 'images/c1.png'},
     {songName: ' Shape Of You', filepath: 'musics/2.mp3', coverPath: 'images/c2.jpg'},
     {songName: ' Mercy', filepath: 'musics/3.mp3', coverPath: 'images/c3.jpg'},
-    {songName: ' Let Me Love You', filepath: 'mu/4.mp3', coverPath: 'images/c4.png'},
-    {songName: ' Daru Badnaam', filepath: 'mu/5.mp3', coverPath: 'images/c5.jfif'},
-    {songName: ' Backbone', filepath: 'mu/6.mp3', coverPath: 'images/c6.jpg'},
+    {songName: ' Let Me Love You', filepath: 'musics/4.mp3', coverPath: 'images/c4.png'},
+    {songName: ' Daru Badnaam', filepath: 'musics/5.mp3', coverPath: 'images/c5.jfif'},
+    {songName: ' Backbone', filepath: 'musics/6.mp3', coverPath: 'images/c6.jpg'},
     {songName: ' 3 Peg', filepath: 'musics/7.mp3', coverPath: 'images/c7.cms'},
     {songName: ' Brown Munde', filepath: 'musics/8.mp3', coverPath: 'images/c8.jfif'},
     {songName: ' High Rated Gabru', filepath: 'musics/9.mp3', coverPath: 'images/c9.jpg'}
